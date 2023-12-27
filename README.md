@@ -2,7 +2,6 @@
 
 A full-stack replica of the ChatGPT interface. It features a modern, dark-mode UI inspired by OpenAI, integrates the OpenAI API to generate real-time conversational responses, and persists chat sessions in a MongoDB database.
 
-![ChatGPT Clone Preview](https://via.placeholder.com/800x400.png?text=ChatGPT+Clone+Preview) <!-- Replace with your own screenshot if available! -->
 
 ## ✨ Features
 
